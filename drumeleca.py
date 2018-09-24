@@ -2,8 +2,8 @@
 # ----------------------------------------------------------------------------
 # DRUMELECA
 # Desenvolvido por Rafael Amaral Salgueiroza
-# Você pode alterar e/ou redistribuir este código-fonte.
-# Você pode entrar em contato comigo em rafael@salgueiroza.com.br
+# Voce pode alterar e/ou redistribuir este codigo-fonte.
+# Voce pode entrar em contato comigo em rafael@salgueiroza.com.br
 # Este projeto foi desenvolvido entre 2016 e 2018.
 # ----------------------------------------------------------------------------
 
@@ -11,7 +11,6 @@
 '''
 
 __docformat__ = 'restructuredtext'
-__version__ = '$Id: events.py 1966 2008-03-23 07:01:26Z Alex.Holkner $'
 
 
 import pyglet
